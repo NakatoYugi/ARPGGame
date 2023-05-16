@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ecfde613bf46d44af8ff09e9779f52, type: 3}
+  m_Name: Katana
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 015457ed29c63fa4b8ebc79d80b3dd9a, type: 3}
+  itemName: Katana
+  modelPrefab: {fileID: 4401079747847062084, guid: f511cba75b038ae42aaba022d82ac2df,
+    type: 3}
+  isUnarmed: 0
+  Right_Hand_Idle: RightArmIdle
+  Left_Hand_Idle: LeftArmIdle
+  OH_Light_Attack_1: OH_LightAttack_01
+  OH_Light_Attack_2: OH_LightAttack_02
+  OH_Heavy_Attack_1: OH_HeavyAttack_01

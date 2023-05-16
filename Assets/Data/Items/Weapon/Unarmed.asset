@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ecfde613bf46d44af8ff09e9779f52, type: 3}
+  m_Name: Unarmed
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: Hands
+  modelPrefab: {fileID: 7677423939229876877, guid: f3f0fca63c10e624a85e1c89ef2cf810,
+    type: 3}
+  isUnarmed: 1
+  Right_Hand_Idle: RightArmEmpty
+  Left_Hand_Idle: LeftArmEmpty
+  OH_Light_Attack_1: Punching_01
+  OH_Light_Attack_2: Punching_02
+  OH_Heavy_Attack_1: Hook_Punch_01
